@@ -1,0 +1,34 @@
+h3{
+    line-height: 3px;
+    font-weight: bolder;
+    font-size: 18px;
+    text-align: center;
+    }
+
+    body {
+        background-color: gray;
+        background-repeat: no-repeat;
+        background-size: cover;
+        align-items: center;
+        text-align: center;
+    }
+    .copy {
+        color: white;
+        text-align: center;
+    }
+    footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 5px;
+        background-color: #1a1c1a;
+    }
+    button {
+        width: 10%;
+        color: rgb(255, 255, 255);
+        border-color: teal;
+        background-color: teal;
+        border-radius: 15px;
+      
+      }
